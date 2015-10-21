@@ -1,1 +1,4 @@
-# seznameni-s-gitem-2014-15
+# Repo pro první seznámení se s Gitem a GitHubem
+
+Detaily jsou [zde](http://alej.alisma.cz/prog1/pg07).
+
